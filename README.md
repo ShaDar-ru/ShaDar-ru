@@ -31,4 +31,4 @@
 В процессе обучения и написания PET проектов применялись следующие инструменты:
 IntelliJ Idea, Git, Maven, Сheckstyle, jUnit, JaCoCo, Travic CI
 
-[![ShaDar's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShaDar-ru)](https://github.com/ShaDar-ru/github-readme-stats)
+[![ShaDar's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaterentev)](https://github.com/ShaDar-ru/github-readme-stats)
